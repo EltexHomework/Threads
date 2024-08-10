@@ -196,7 +196,10 @@ Customer 2 fulfilled demand
 ```
 ## Демонстрация работы программ
 ### Задание №1
+![task1](https://github.com/user-attachments/assets/f68fe797-a1ec-430a-b616-55261a1f7037)
 
 ### Задание №2
+![task2](https://github.com/user-attachments/assets/a381af1a-c73d-4af8-ba0f-faf444649e48)
 
 ### Задание №3
+![task3](https://github.com/user-attachments/assets/9e78c46b-f5cf-40f7-a900-7090b001c350)
